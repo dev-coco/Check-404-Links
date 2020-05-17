@@ -5,5 +5,5 @@ Check web pages 404 links shell on Mac.
 # Instructions
 See the Wiki for instructions:
 
-https://dev-coco.github.io/blog/Check-404-Links.html
+[Check 404 Links](https://dev-coco.github.io/blog/Check-404-Links.html)
 
