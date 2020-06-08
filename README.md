@@ -1,9 +1,7 @@
-# Check 404 Links
-Check web pages 404 links shell on Mac.
+# 检测404链接
+检测网页404链接的Mac脚本。
 
-[Home page](https://dev-coco.github.io/)
-# Instructions
-See the Wiki for instructions:
+[主页](https://dev-coco.github.io/)
+# 使用说明
 
-[Check 404 Links](https://dev-coco.github.io/blog/Check-404-Links.html)
-
+[查404链接工具](https://dev-coco.github.io/blog/Check-404-Links.html)
